@@ -7,6 +7,9 @@ matplotlib
 # Machine Learning & Deep Learning
 tensorflow
 keras
+seaborn
+scikit-learn
+kagglehub
 
 # Web Framework
 streamlit

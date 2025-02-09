@@ -30,7 +30,13 @@ Install all necessary packages by running:
 pip install -r requirements.txt
 ```
 
-### **Step 4: Run the Streamlit App**
+### **Step 4: Train the Model**
+Run the following command in your terminal:
+```
+python train.py
+```
+
+### **Step 5: Run the Streamlit App**
 To launch the Streamlit app, run:
 ```
 streamlit run app.py
