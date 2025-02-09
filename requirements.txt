@@ -1,0 +1,20 @@
+# Core Libraries
+numpy
+pandas
+Pillow  # Image Processing
+matplotlib
+
+# Machine Learning & Deep Learning
+tensorflow
+keras
+
+# Web Framework
+streamlit
+streamlit-option-menu  # For sidebar navigation
+
+# Image Preprocessing
+opencv-python
+scikit-image
+
+# Model Deployment
+h5py  # To load .h5 model files
