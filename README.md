@@ -65,9 +65,10 @@ streamlit run app.py
 ## 📂 **Project Directory Structure**
     waste_classification_app/
     │── app.py                     # Streamlit Application
-    │── waste_classification_model.h5  # Trained Model File
+    │── waste_classification_model.h5  # the Model File is going to train when you run train.py file
     │── requirements.txt            # Dependencies
     │── README.md                   # Documentation
+    │── train.py                    # To Train the model
     │── assets/                     # Folder for screenshots
     │   ├── upload_example.png
     │   ├── prediction_example.png
